@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 250 1000;
+  src: url('TildaSans-VF-ab6ccb2aa6.woff2') format('woff2-variations'),
+       url('TildaSans-VF-dbc3f6884e.woff') format('woff-variations');     
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 300;
+  src: url('TildaSans-Light-06d2f1a86a.eot');
+  src: url('TildaSans-Light-06d2f1a86a.eot?#iefix') format('embedded-opentype'),
+       url('TildaSans-VF-ab6ccb2aa6.woff2') format('woff2-variations'),
+       url('TildaSans-VF-dbc3f6884e.woff') format('woff-variations'),
+       url('TildaSans-Light-664ce4f2e1.woff2') format('woff2'),
+       url('TildaSans-Light-584093df11.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('TildaSans-Regular-d60787e606.eot');
+  src: url('TildaSans-Regular-d60787e606.eot?#iefix') format('embedded-opentype'),
+       url('TildaSans-VF-ab6ccb2aa6.woff2') format('woff2-variations'),
+       url('TildaSans-VF-dbc3f6884e.woff') format('woff-variations'),  
+       url('TildaSans-Regular-424266a1d3.woff2') format('woff2'),
+       url('TildaSans-Regular-c34831ee9a.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 500;
+  src: url('TildaSans-Medium-2332b57bbe.eot');
+  src: url('TildaSans-Medium-2332b57bbe.eot?#iefix') format('embedded-opentype'),
+       url('TildaSans-VF-ab6ccb2aa6.woff2') format('woff2-variations'),
+       url('TildaSans-VF-dbc3f6884e.woff') format('woff-variations'),  
+       url('TildaSans-Medium-eb9708cf29.woff2') format('woff2'),
+       url('TildaSans-Medium-1c7d7dcc2a.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 600;
+  src: url('TildaSans-Semibold-42074abd5f.eot');
+  src: url('TildaSans-Semibold-42074abd5f.eot?#iefix') format('embedded-opentype'),
+       url('TildaSans-VF-ab6ccb2aa6.woff2') format('woff2-variations'),
+       url('TildaSans-VF-dbc3f6884e.woff') format('woff-variations'),  
+       url('TildaSans-Semibold-d7fce76ceb.woff2') format('woff2'),
+       url('TildaSans-Semibold-d1c0d52b78.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('TildaSans-Bold-c697dd7162.eot');
+  src: url('TildaSans-Bold-c697dd7162.eot?#iefix') format('embedded-opentype'),
+       url('TildaSans-VF-ab6ccb2aa6.woff2') format('woff2-variations'),
+       url('TildaSans-VF-dbc3f6884e.woff') format('woff-variations'),  
+       url('TildaSans-Bold-08d3e49e08.woff2') format('woff2'),
+       url('TildaSans-Bold-16d2905aad.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 800;
+  src: url('TildaSans-Extrabold-1b0fa7f168.eot');
+  src: url('TildaSans-Extrabold-1b0fa7f168.eot?#iefix') format('embedded-opentype'),
+       url('TildaSans-VF-ab6ccb2aa6.woff2') format('woff2-variations'),
+       url('TildaSans-VF-dbc3f6884e.woff') format('woff-variations'),  
+       url('TildaSans-Extrabold-3fa3b5c60b.woff2') format('woff2'),
+       url('TildaSans-Extrabold-040275300e.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 900;
+  src: url('TildaSans-Black-25b40743cc.eot');
+  src: url('TildaSans-Black-25b40743cc.eot?#iefix') format('embedded-opentype'),
+       url('TildaSans-VF-ab6ccb2aa6.woff2') format('woff2-variations'),
+       url('TildaSans-VF-dbc3f6884e.woff') format('woff-variations'),  
+       url('TildaSans-Black-22e9c5fad3.woff2') format('woff2'),
+       url('TildaSans-Black-8acdcf1c12.woff') format('woff');
+}
